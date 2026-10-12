@@ -21,7 +21,7 @@ A municipal fleet generates hundreds of thousands of work orders. Before any KPI
 
 | Item | Value |
 |---|---|
-| Source | City of Cincinnati — *Fleet Preventative Maintenance & Repair Work Orders* (public open data) |
+| Source | City of Cincinnati open data portal (data.cincinnati-oh.gov) — *Fleet Preventative Maintenance & Repair Work Orders 2015–2023*. Companion dataset: [Fleet Inventory](https://data.cincinnati-oh.gov/Thriving-Neighborhoods/Fleet-Inventory/m8ba-xmjz/about_data) (asset catalogue, same Fleet Services Division) |
 | Rows in file | 220,348 (30 columns) |
 | Usable work orders | **180,353** (39,995 fully empty rows removed) |
 | Period | 2013-01-01 → 2023-08-09 (no records for 2014; 2023 is partial) |
